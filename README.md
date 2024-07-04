@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![Location](https://img.shields.io/badge/Location-Neiva,%20Huila,%20Colombia-blue)
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JuanDavidCerqueraCH&show_icons=true&count_private=true)](https://github.com/JuanDavidCerquera)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JuanDavidCerquera&show_icons=true&count_private=true)](https://github.com/JuanDavidCerquera)
