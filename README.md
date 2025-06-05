@@ -13,6 +13,11 @@
 	
 ##  **Sobre mi**
 
+Llevo dos años estudiando para ser desarrollador de software acompañado de 6 meses de práctica, prontamente voy a certificar mis estudios de tecnólogo en análisis y desarrollo software en el SENA.
+- Me gusta aprender constantemente para ser mejor desarrollador de software.
+- Me gusta el trabajo en equipo.
+- Soy una persona proactiva.
+
 
 <br>
 
@@ -89,7 +94,7 @@ Repositorio que contiene un proyecto de una tienda en Java 💾.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,azure"/>
+    <img src="https://skillicons.dev/icons?i=github,vscode"/>
   </a>
 </p> 
 
@@ -97,8 +102,11 @@ Repositorio que contiene un proyecto de una tienda en Java 💾.
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,azure" />
+  </a>
+</p>
 
 </p>
 
@@ -117,8 +125,32 @@ Repositorio que contiene un proyecto de una tienda en Java 💾.
 <div align="center">
 
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JuanDavidCerquera&show_icons=true&count_private=true)](https://github.com/JuanDavidCerquera)
 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JuanDavidCerquera&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanDavidCerquera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+
+</p>        
+<!--- stats (end) -->
 </a>
 </div>
 
