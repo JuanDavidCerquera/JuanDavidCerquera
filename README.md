@@ -28,8 +28,13 @@ Llevo dos años estudiando para ser desarrollador de software acompañado de 6 m
 ##  **Proyectos**
 
 * 📁 [monolito-software-Inventory](https://github.com/JuanDavidCerquera/monolito-software-Inventory.git).
-Repositorio que contiene un proyecto de una tienda en Java 💾.
+Repositorio que contiene un proyecto de una tienda.
 
+* 📁 [Mat-System-Movil](https://github.com/Y-S-500/Mat-System-Movil.git).
+Repositorio que contiene un proyecto de un sistema de matriculas pensado para el SENA.
+
+* 📁 [SegurityAppC-](https://github.com/JuanDavidCerquera/SegurityAppC-.git).
+Repositorio que contiene un proyecto backend con un modulo de saguridad.
 
 
 <br>
@@ -46,7 +51,7 @@ Repositorio que contiene un proyecto de una tienda en Java 💾.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,cs,dart,py,php"/>
+    <img src="https://skillicons.dev/icons?i=java,js,ts,cs,dart,py"/>
   </a>
 </p>
 
@@ -82,12 +87,8 @@ Repositorio que contiene un proyecto de una tienda en Java 💾.
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio"/>
   </a>
 </p>
-<br>
 
-- **Cloud Hosting**:
-
-
-    
+ 
 <br>
 
 - **Herramientas de desarrollo**:
